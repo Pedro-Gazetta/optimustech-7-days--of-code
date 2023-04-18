@@ -347,8 +347,14 @@ html {
     margin-left: 1.6rem;
 }
 
+.container .footer form .cadastrar input:hover{
+    cursor: pointer;
+}
+
+
 .container .footer .copyrigth{
     margin-top: 3.2rem;
+    margin-bottom: 9.6rem;
     color: var(--cor-texto);
     font-size: 1.6rem;
     font-weight: 400;
